@@ -1,3 +1,8 @@
+各种依赖库安装好了后，运行deep_q_network.py就可以看到训练完了之后的效果
+/saved_networks保存了训练参数的历史记录
+/assets /images 是ＦｌａｐｐｙＢｉｒｄ游戏的组件
+/game　里面只需要看一下wrapped_flappy_bird.py的输入输出就行，会在deep_q_network.py里调用
+        
 # Using Deep Q-Network to Learn How To Play Flappy Bird
 
 <img src="./images/flappy_bird_demp.gif" width="250">
